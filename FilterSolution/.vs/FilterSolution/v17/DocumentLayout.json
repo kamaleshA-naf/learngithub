@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Corp\\Wintech\\naf\\2026\\Participants\\Day15\\FilterSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE82BD1E-518B-42D7-9F3B-CED373283E68}|InsuranceAppTesting\\InsuranceAppTesting.csproj|d:\\corp\\wintech\\naf\\2026\\participants\\day15\\filtersolution\\insuranceapptesting\\customerrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE82BD1E-518B-42D7-9F3B-CED373283E68}|InsuranceAppTesting\\InsuranceAppTesting.csproj|solutionrelative:insuranceapptesting\\customerrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CBCF-0902-498D-96B5-935C7154A791}|ExceptionFilterAPI\\ExceptionFilterAPI.csproj|d:\\corp\\wintech\\naf\\2026\\participants\\day15\\filtersolution\\exceptionfilterapi\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92CBCF-0902-498D-96B5-935C7154A791}|ExceptionFilterAPI\\ExceptionFilterAPI.csproj|solutionrelative:exceptionfilterapi\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CBCF-0902-498D-96B5-935C7154A791}|ExceptionFilterAPI\\ExceptionFilterAPI.csproj|d:\\corp\\wintech\\naf\\2026\\participants\\day15\\filtersolution\\exceptionfilterapi\\contexts\\insurancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92CBCF-0902-498D-96B5-935C7154A791}|ExceptionFilterAPI\\ExceptionFilterAPI.csproj|solutionrelative:exceptionfilterapi\\contexts\\insurancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CBCF-0902-498D-96B5-935C7154A791}|ExceptionFilterAPI\\ExceptionFilterAPI.csproj|d:\\corp\\wintech\\naf\\2026\\participants\\day15\\filtersolution\\exceptionfilterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92CBCF-0902-498D-96B5-935C7154A791}|ExceptionFilterAPI\\ExceptionFilterAPI.csproj|solutionrelative:exceptionfilterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CBCF-0902-498D-96B5-935C7154A791}|ExceptionFilterAPI\\ExceptionFilterAPI.csproj|d:\\corp\\wintech\\naf\\2026\\participants\\day15\\filtersolution\\exceptionfilterapi\\services\\dummyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92CBCF-0902-498D-96B5-935C7154A791}|ExceptionFilterAPI\\ExceptionFilterAPI.csproj|solutionrelative:exceptionfilterapi\\services\\dummyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE82BD1E-518B-42D7-9F3B-CED373283E68}|InsuranceAppTesting\\InsuranceAppTesting.csproj|d:\\corp\\wintech\\naf\\2026\\participants\\day15\\filtersolution\\insuranceapptesting\\dummyservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE82BD1E-518B-42D7-9F3B-CED373283E68}|InsuranceAppTesting\\InsuranceAppTesting.csproj|solutionrelative:insuranceapptesting\\dummyservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CBCF-0902-498D-96B5-935C7154A791}|ExceptionFilterAPI\\ExceptionFilterAPI.csproj|d:\\corp\\wintech\\naf\\2026\\participants\\day15\\filtersolution\\exceptionfilterapi\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92CBCF-0902-498D-96B5-935C7154A791}|ExceptionFilterAPI\\ExceptionFilterAPI.csproj|solutionrelative:exceptionfilterapi\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerRepositoryTest.cs",
+              "DocumentMoniker": "D:\\Corp\\Wintech\\naf\\2026\\Participants\\Day15\\FilterSolution\\InsuranceAppTesting\\CustomerRepositoryTest.cs",
+              "RelativeDocumentMoniker": "InsuranceAppTesting\\CustomerRepositoryTest.cs",
+              "ToolTip": "D:\\Corp\\Wintech\\naf\\2026\\Participants\\Day15\\FilterSolution\\InsuranceAppTesting\\CustomerRepositoryTest.cs",
+              "RelativeToolTip": "InsuranceAppTesting\\CustomerRepositoryTest.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowDwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T08:46:14.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Corp\\Wintech\\naf\\2026\\Participants\\Day15\\FilterSolution\\ExceptionFilterAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionFilterAPI\\Program.cs",
+              "ToolTip": "D:\\Corp\\Wintech\\naf\\2026\\Participants\\Day15\\FilterSolution\\ExceptionFilterAPI\\Program.cs",
+              "RelativeToolTip": "ExceptionFilterAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T08:44:05.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsuranceContext.cs",
+              "DocumentMoniker": "D:\\Corp\\Wintech\\naf\\2026\\Participants\\Day15\\FilterSolution\\ExceptionFilterAPI\\Contexts\\InsuranceContext.cs",
+              "RelativeDocumentMoniker": "ExceptionFilterAPI\\Contexts\\InsuranceContext.cs",
+              "ToolTip": "D:\\Corp\\Wintech\\naf\\2026\\Participants\\Day15\\FilterSolution\\ExceptionFilterAPI\\Contexts\\InsuranceContext.cs",
+              "RelativeToolTip": "ExceptionFilterAPI\\Contexts\\InsuranceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T08:43:48.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DummyService.cs",
+              "DocumentMoniker": "D:\\Corp\\Wintech\\naf\\2026\\Participants\\Day15\\FilterSolution\\ExceptionFilterAPI\\Services\\DummyService.cs",
+              "RelativeDocumentMoniker": "ExceptionFilterAPI\\Services\\DummyService.cs",
+              "ToolTip": "D:\\Corp\\Wintech\\naf\\2026\\Participants\\Day15\\FilterSolution\\ExceptionFilterAPI\\Services\\DummyService.cs",
+              "RelativeToolTip": "ExceptionFilterAPI\\Services\\DummyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T07:14:33.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DummyServiceTest.cs",
+              "DocumentMoniker": "D:\\Corp\\Wintech\\naf\\2026\\Participants\\Day15\\FilterSolution\\InsuranceAppTesting\\DummyServiceTest.cs",
+              "RelativeDocumentMoniker": "InsuranceAppTesting\\DummyServiceTest.cs",
+              "ToolTip": "D:\\Corp\\Wintech\\naf\\2026\\Participants\\Day15\\FilterSolution\\InsuranceAppTesting\\DummyServiceTest.cs",
+              "RelativeToolTip": "InsuranceAppTesting\\DummyServiceTest.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T07:13:23.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Corp\\Wintech\\naf\\2026\\Participants\\Day15\\FilterSolution\\ExceptionFilterAPI\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "ExceptionFilterAPI\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Corp\\Wintech\\naf\\2026\\Participants\\Day15\\FilterSolution\\ExceptionFilterAPI\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "ExceptionFilterAPI\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T07:05:32.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Corp\\Wintech\\naf\\2026\\Participants\\Day15\\FilterSolution\\ExceptionFilterAPI\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "ExceptionFilterAPI\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\Corp\\Wintech\\naf\\2026\\Participants\\Day15\\FilterSolution\\ExceptionFilterAPI\\Repositories\\Repository.cs",
+              "RelativeToolTip": "ExceptionFilterAPI\\Repositories\\Repository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowDYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T06:51:59.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

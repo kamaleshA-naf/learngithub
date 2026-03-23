@@ -35,3 +35,5 @@ namespace ExceptionFilterAPI.Controllers
         }
     }
 }
+
+console.writeline("hi")
